@@ -1,7 +1,6 @@
 {
   "name": "helloworld",
   "version": "0.1.0",
-  "private": true,
   "homepage": "http://turtle85917.github.io/github-pages-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
